@@ -54,11 +54,12 @@ Year-wise Bookings & Cancellations Analysis
 📷 Dashboard Preview
 
 🔹 Complete Dashboard View
-![Dashboard](images/dashboard_full_view.png)
+Here we have year wise cancellations
 
 🔹 Year-wise Bookings vs Cancellations
-![Year-wise](images/year_wise_bookings_vs_cancellations.png)
-
+![Year-wise](images/2015.png)
+![Year-wise](images/2016.png)
+![Year-wise](images/2017.png)
 
 ---
 
